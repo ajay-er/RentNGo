@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/ajay-er/RentNGo-Client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/ajay-er/RentNGo-Server.git

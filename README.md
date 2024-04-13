@@ -1,9 +1,10 @@
 # RentNGo
  Facilitate seamless vehicle rentals with a user-friendly form. Capture user details, vehicle specifications, and rental dates effortlessly for a smooth renting experience 
 
-## Features
+## Project Hosted Links
 
-- Vehicle selection based on type and availability
+- `Hosted`: [https://rent-n-go-client.vercel.app/](https://rent-n-go-client.vercel.app/)
+- `Swagger`: [https://rentgo-v1.onrender.com/](https://rentgo-v1.onrender.com/)
 
 ## Repository Structure
 
